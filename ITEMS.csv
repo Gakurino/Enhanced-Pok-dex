@@ -1,0 +1,21 @@
+Name,Categ,Description,Effect,BuyingPrice,SellingPrice
+HP Up,Vitamin,A nutritious drink for Pokemon,+10 HP EVs,10000,5000
+Protein,Vitamin,A nutritious drink for Pokemon,+10 Attack EVs,10000,5000
+Iron,Vitamin,A nutritious drink for Pokemon,+10 Defense EVs,10000,5000
+Carbos,Vitamin,A nutritious drink for Pokemon,+10 Speed EVs,10000,5000
+Zinc,Vitamin,A nutritious drink for Pokemon,+10 Sp.Def EVs,10000,5000
+Health Feather,Feather,A feather that slightly increases HP,+1 HP EV,300,150
+Muscle Feather,Feather,A feather that slightly increases Atk,+1 Atk EV,300,150
+Resist Feather,Feather,A feather that slightly increases Def,+1 Def EV,300,150
+Swift Feather,Feather,A feather that slightly increases Spd,+1 Spd EV,300,150
+Rare Candy,Leveling Item,A candy packed with energy,Level +1,0,4800
+Fire Stone,Evolution Stone,A stone that radiates heat,Evolves Fire-types,4000,1500
+Water Stone,Evolution Stone,A watery blue stone,Evolves Water-types,4000,1500
+Thunder Stone,Evolution Stone,A sparking stone,Evolves Electric-types,4000,1500
+Leaf Stone,Evolution Stone,A stone with leaf patterns,Evolves Grass-types,4000,1500
+Moon Stone,Evolution Stone,A moonlit stone,Evolves Moon species,0,3000
+Sun Stone,Evolution Stone,A sun-like stone,Evolves Sun species,4000,1500
+Shiny Stone,Evolution Stone,A bright sparkling stone,Evolves Fairy-types,4000,1500
+Dusk Stone,Evolution Stone,A dark ominous stone,Evolves Dark-types,4000,1500
+Dawn Stone,Evolution Stone,A morning sky stone,Gender evolution,4000,1500
+Ice Stone,Evolution Stone,A cold stone,Evolves Ice-types,4000,1500

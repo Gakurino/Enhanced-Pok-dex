@@ -1,0 +1,17 @@
+Name,Description,Class,Type
+Cut,Slices through obstacles,HM,Normal
+Fly,Travels through the air,HM,Flying
+Surf,Rides waves on water,HM,Water
+Strength,Moves heavy boulders,HM,Normal
+Rock Smash,Destroys rocks,HM,Fighting
+Flamethrower,Scorching fire blast,TM,Fire
+Thunderbolt,Powerful lightning strike,TM,Electric
+Ice Beam,Freezing cold beam,TM,Ice
+Psychic,Strong mental attack,TM,Psychic
+Earthquake,Powerful ground shake,TM,Ground
+Shadow Ball,Spooky sphere attack,TM,Ghost
+Brick Break,Destroys barriers,TM,Fighting
+Sludge Bomb,Toxic sludge explosion,TM,Poison
+Energy Ball,Nature energy blast,TM,Grass
+Dark Pulse,Menacing dark waves,TM,Dark
+Dragon Claw,Razor-sharp claws,TM,Dragon
